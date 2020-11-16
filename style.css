@@ -1,0 +1,33 @@
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+main{
+  display: flex;
+  flex-direction: row;
+}
+
+article{
+flex-grow: 3;
+display: flex;
+flex-direction: column;
+}
+
+aside{
+flex-grow: 1;
+display: flex;
+flex-direction: column;
+}
+
+#VG{
+  text-align: center;
+}
+
+#GS{
+  text-align: center;
+}
+
+Header{
+  text-align: center;
+}
